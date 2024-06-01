@@ -1,0 +1,1 @@
+export const osu_uri = 'https://osu.ppy.sh';
